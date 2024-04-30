@@ -156,8 +156,8 @@ from binance.client import Client
 from binance.enums import SIDE_BUY, SIDE_SELL
 
 # Step 1: Initialize Binance Client
-api_key = 'your_api_key'
-api_secret = 'your_api_secret'
+api_key = '916865ef218422590a47257c6154815d81410869c407e6232b3aeef91c342e66'
+api_secret = '19dc4027f63d345e5d8a9686304bd523f4755da017c36d1399a568a27c78923b'
 client = Client(api_key, api_secret)
 
 # Step 2: Data Collection (Real-time)
